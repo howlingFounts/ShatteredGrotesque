@@ -13,3 +13,4 @@
 ## 鸣谢
 
 - 《[械黑 GB](https://github.com/maoken-fonts/frex-sans)》
+- Glyphs 插件《[Cut and Shake](https://github.com/mekkablue/CutAndShake)》
